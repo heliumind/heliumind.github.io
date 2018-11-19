@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Henry He</title>
-    <link>http://henryhe.org/work/</link>
+    <link>http://heliumind.github.io/work/</link>
     <description>Recent content in Works on Henry He</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://henryhe.org/work/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://heliumind.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://henryhe.org/work/adveisor/</link>
+      <link>http://heliumind.github.io/work/adveisor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://henryhe.org/work/adveisor/</guid>
+      <guid>http://heliumind.github.io/work/adveisor/</guid>
       <description>advEIsor is a Hands-On project which gives ECE freshmen at TUM the possibility to work on a technical task while improving their softskills in the areas of project management, teambuilding and communication. My assignment consisted of developing an interactive &amp;ldquo;Connect Four&amp;rdquo; robot.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://henryhe.org/work/ecarus/</link>
+      <link>http://heliumind.github.io/work/ecarus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://henryhe.org/work/ecarus/</guid>
+      <guid>http://heliumind.github.io/work/ecarus/</guid>
       <description>eCARus is a student organized initiative, in which around 50 ECE students at TUM research and develop in the field of electromobility each semester. Since the start of eCARus in 2009 two electrical vehicles have been successfully developed.
 Check out eCARus&amp;rsquo; Image video below I feature in and also helped producing.
   </description>
@@ -32,10 +32,10 @@ Check out eCARus&amp;rsquo; Image video below I feature in and also helped produ
     
     <item>
       <title></title>
-      <link>http://henryhe.org/work/tumi/</link>
+      <link>http://heliumind.github.io/work/tumi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://henryhe.org/work/tumi/</guid>
+      <guid>http://heliumind.github.io/work/tumi/</guid>
       <description>I am a Volunteer and Board member at ESN TUMi München. TUMi is part of the Erasmus Student Network, a Europe-wide student organization with the mission to foster student mobility in higher education. At TUMi we facilitate the social and personal integration of international students by providing support at the beginning of their studies studies in Munich and offering a diverse cultural and orientation program during the semester. Through my role as TUMi&amp;rsquo;s Local Representative I actively engage in ESN&amp;rsquo;s large network both on a national and international level.</description>
     </item>
     
