@@ -1,2 +1,2 @@
-# heliumind.github.io
+# henryhe.org
 My personal website built with hugo
